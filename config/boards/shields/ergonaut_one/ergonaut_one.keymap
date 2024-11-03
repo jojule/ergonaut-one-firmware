@@ -23,13 +23,13 @@
 #define SYSTEM_LAYER 3
 
 
-&mmv {
-    time-to-max-speed-ms = <500>;
-};
-
-&mwh {
-    time-to-max-speed-ms = <500>;
-};
+// &mmv {
+//     time-to-max-speed-ms = <500>;
+// };
+//
+// &mwh {
+//     time-to-max-speed-ms = <500>;
+// };
 
 / {
         behaviors {
