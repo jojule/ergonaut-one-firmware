@@ -112,7 +112,7 @@
    &kp RSHFT 
 
    &ht LCTRL TAB &ht LALT ESC &ht LGUI BSPC   
-   &lt NAV_LAYER SPACE &mo SYM_LAYER &ht RSHFT RET
+   &lt NAV_LAYER SPACE &mo SYM_LAYER &ht RGUI RET
                         >;
                 };
 
@@ -137,7 +137,7 @@
    &kp RSHFT 
 
    &ht LCTRL TAB &ht LALT ESC &ht LGUI BSPC   
-   &trans &mo SYM_LAYER &ht RSHFT RET
+   &trans &mo SYM_LAYER &ht RGUI RET
                         >;
                 };
 
@@ -159,7 +159,7 @@
    &kp RSHFT 
 
    &ht LCTRL TAB &ht LALT ESC &ht LGUI BSPC   
-   &lt NAV_LAYER SPACE &trans &ht RSHFT RET
+   &lt NAV_LAYER SPACE &trans &ht RGUI RET
                         >;
                 };
 
@@ -181,7 +181,7 @@
    &kp RSHFT 
 
    &ht LCTRL TAB &ht LALT ESC &ht LGUI BSPC   
-   &lt NAV_LAYER SPACE &mo SYM_LAYER &ht RSHFT RET
+   &lt NAV_LAYER SPACE &mo SYM_LAYER &ht RGUI RET
                         >;
                 };
 
