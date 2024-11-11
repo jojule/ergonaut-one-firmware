@@ -131,8 +131,8 @@
    // &mwh SCROLL_UP &kp LEFT &kp DOWN &kp UP &kp RIGHT 
    &kp RET
 
-   &caps_word
-   &kp LSHFT &kp LBRC &kp LBKT &kp RBKT &kp RBRC
+   &kp LSHFT
+   &caps_word &kp LBRC &kp LBKT &kp RBKT &kp RBRC
    &kp LG(TAB) &kp HOME &kp PG_DN &kp PG_UP &ht RSHFT END
    &kp RSHFT 
 
