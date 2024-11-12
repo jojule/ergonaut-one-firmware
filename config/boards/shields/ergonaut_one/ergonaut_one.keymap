@@ -120,15 +120,12 @@
                         bindings = <
    &kp TAB
    &kp TILDE &kp GRAVE &kp PIPE &kp BSLH &none
-   &none   &none   &none   &none   &none                                     
-   // &mwh SCROLL_DOWN &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_UP &mmv MOVE_RIGHT 
+   &mwh SCROLL_DOWN &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_UP &mmv MOVE_RIGHT 
    &kp BSPC
 
    &kp ESC
-   &none &none &none &none &kp C_AC_DESKTOP_SHOW_ALL_WINDOWS
-   // &caps_word &none &mkp RCLK &mkp LCLK &kp C_AC_DESKTOP_SHOW_ALL_WINDOWS
-   &none   &kp LEFT &kp DOWN &kp UP &kp RIGHT 
-   // &mwh SCROLL_UP &kp LEFT &kp DOWN &kp UP &kp RIGHT 
+   &caps_word &kp LG(C_AC_DESKTOP_SHOW_ALL_WINDOWS) &mkp RCLK &mkp LCLK &kp C_AC_DESKTOP_SHOW_ALL_WINDOWS
+   &mwh SCROLL_UP &kp LEFT &kp DOWN &kp UP &kp RIGHT 
    &kp RET
 
    &kp LSHFT
