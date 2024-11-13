@@ -168,7 +168,7 @@
    &kp BSPC
 
    &kp ESC
-   &kp C_BRIGHTNESS_INC &none &bt BT_SEL 2 &bt BT_SEL 3 &none
+   &kp C_BRIGHTNESS_INC &bt BT_SEL 4 &bt BT_SEL 2 &bt BT_SEL 3 &none
    &kp C_VOL_UP &none &none &none &none
    &kp RET
 
